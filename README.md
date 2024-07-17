@@ -1,0 +1,1 @@
+This project is a Netflix clone created to demonstrate front-end development skills using HTML and CSS. It features a navigation bar, featured content, movie categories, and a footer, styled to closely resemble the Netflix user interface.
